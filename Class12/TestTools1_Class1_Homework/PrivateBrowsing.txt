@@ -1,0 +1,7 @@
+-In private mode, the browser doesn't track history.
+-Doesn't track cookies.
+
+I feel the private mode or incognito mode is a good way to test because everytime you 
+go in to a website its a new person per say. If cookie were being track then they would
+know what ads to show and populated on websites you go to. With out this mode its like 
+you are one step behind because it already know what to show you.
